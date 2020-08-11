@@ -8,8 +8,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.sun.xml.bind.v2.runtime.unmarshaller.XsiNilLoader.Array;
-
 import br.com.rodrigoleal.cursomc.domain.Categoria;
 import br.com.rodrigoleal.cursomc.domain.Cidade;
 import br.com.rodrigoleal.cursomc.domain.Cliente;
