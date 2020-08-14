@@ -20,7 +20,6 @@ import br.com.rodrigoleal.cursomc.domain.PagamentoComCartao;
 import br.com.rodrigoleal.cursomc.domain.Pedido;
 import br.com.rodrigoleal.cursomc.domain.Produto;
 import br.com.rodrigoleal.cursomc.domain.enums.EstadoPagamento;
-import br.com.rodrigoleal.cursomc.domain.enums.Perfil;
 import br.com.rodrigoleal.cursomc.domain.enums.TipoCliente;
 import br.com.rodrigoleal.cursomc.repositories.CategoriaRepository;
 import br.com.rodrigoleal.cursomc.repositories.CidadeRepository;

@@ -30,8 +30,7 @@ public class SmtpEmailService extends AbstractEmailService {
 	public void sendHtmlEmail(MimeMessage msg) {
 		LOG.info("Enviando e-mail HTML...");
 		javaMailSender.send(msg);
-		LOG.info("E-mail enviado!");
-		
+		LOG.info("E-mail enviado!");		
 	}
 
 }
